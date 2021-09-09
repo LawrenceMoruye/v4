@@ -3,12 +3,12 @@ const config = require('./src/config');
 module.exports = {
   pathPrefix: '/v4',
   siteMetadata: {
-    title: 'Stephen Oni',
+    title: 'Lawrence Moruye',
     description:
-      'Stephen Oni is a software engineer who specializes in building Data driven tools and products',
-    siteUrl: 'https://steveoni.github.io/v4', // No trailing slash allowed!
+      'Lawrence Moruye is a data scientist who enjoys building models that translate data points into business insights.',
+    siteUrl: 'https://LawrenceMoruye.github.io/v4', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@steveoni',
+    twitterUsername: '@LawrenceMoruye',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'StephenOni',
-        short_name: 'steveoni',
+        name: 'LawrenceMoruye',
+        short_name: 'LawrenceMoruye',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

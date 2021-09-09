@@ -53,14 +53,14 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Stephen Oni.</h2>;
-  const three = <h3 className="big-heading">I build data things</h3>;
+  const two = <h2 className="big-heading">Lawrence Moruye</h2>;
+  const three = <h3 className="big-heading">a passionate data scientist</h3>;
   const four = (
     <p>
-      I'm a software engineer who is into building data driven tools and products (Data Science /
-      Machine Learning). Currently, I'm an engineer at{' '}
-      <a href="https://www.datopian.com/">Datopian</a> focused on building Data management system,
-      and also doing my masters in Machine Intelligence at <a href="https://aimsammi.org/">AIMS</a>
+      I have a background in Mathematics and Computer Science(First Class Honours) from Multimedia
+      University of Kenya and I'm Currently doing An intensive and highly selective Machine Learning
+      Masters program hosted by <a href="https://aimsammi.org/">AIMS</a>
+      sponsored by Google and Facebook in Senegal
     </p>
   );
   const five = (

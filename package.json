@@ -2,10 +2,10 @@
   "name": "v4",
   "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "Stephen Oni <steohenoni2@gmail.com>",
+  "author": "Lawrence Moruye <moruyelawrence@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/steveoni/v4"
+    "url": "https://github.com/LawrenceMoruye/v4"
   },
   "keywords": [
     "gatsby"

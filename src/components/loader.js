@@ -88,7 +88,7 @@ const Loader = ({ finishLoading }) => {
 
       <div className="logo-wrapper">
         {/* <IconLoader /> */}
-        steveoni
+        LawrenceMoruye
       </div>
     </StyledLoader>
   );

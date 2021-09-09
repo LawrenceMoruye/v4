@@ -1,22 +1,22 @@
 module.exports = {
-  email: 'stephenoni2@gmail.com',
+  email: 'moruyelawrence@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/steveoni',
+      url: 'https://github.com/LawrenceMoruye',
     },
     {
       name: 'Medium',
-      url: 'https://medium.com/@steveoni',
+      url: 'https://medium.com/@moruyelawrence',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/steveoni',
+      url: 'https://twitter.com/LawrenceMoruye',
     },
     {
       name: 'Linkedin',
-      url: 'www.linkedin.com/in/stephen-oni-189488123',
+      url: 'https://www.linkedin.com/in/lawrence-moruye/',
     },
   ],
 

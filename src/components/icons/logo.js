@@ -20,7 +20,7 @@ const IconLogo = () => (
   //     </g>
   //   </g>
   // </svg>
-  <span>steveoni</span>
+  <span>LawrenceMoruye</span>
 );
 
 export default IconLogo;

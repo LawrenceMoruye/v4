@@ -133,14 +133,14 @@ const About = () => {
   }, []);
 
   const skills = [
-    'JavaScript (ES6+)',
-    'React',
+    'Python',
     'Pytorch',
     'Tensorflow',
-    'Node.js',
-    'Python',
+    'Flask',
     'Docker',
-    'PyData stack',
+    'FastAPI',
+    'Fastai',
+    'SQL ',
   ];
 
   return (
@@ -151,18 +151,17 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              My name is Stephen (steveoni), I love creating things that are data driven. Currently,
-              I found my self at the frontier of enabling data science and machine learning in the
-              Browser using Javascript (Nodejs, Typescript); by building and contributing to
-              opensource project such as{' '}
-              <a href="https://github.com/opensource9ja/danfojs">Danfojs</a>,{' '}
-              <a href="https://github.com/opensource9ja/dnotebook">Dnotebook</a>,
-              <a href="https://github.com/imgcook/datacook">Datacook</a> e.t.c.
+              My name is Lawrence Moruye,an Outstanding data scientist passionate in manipulating
+              and analyzing data from varying data sources and with 3+ years experience in building
+              models that translate data points into business insights. Eager to further contribute
+              to the future of machine learning and its application.{' '}
             </p>
 
             <p>
-              As a machine learning Engineer, i've worked in the areas of computer vision, Natural
-              Language processing and Model Development. And my Research interest is in Privacy AI.
+              As a machine learning Engineer, I've worked in the areas of computer vision, Natural
+              Language processing,Time series Forcasting and Model Deployment.With interests in the
+              fields of Computer Vision,NLP and Geometric Deep Learning, I hope I'll produce
+              research that will improve life and technology in future
             </p>
 
             <p>Here are a few technologies I've been working with:</p>

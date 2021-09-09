@@ -1,15 +1,19 @@
 ---
 date: '4'
-title: 'ZindI Competitions'
+title: 'Zindi Competitions'
 cover: './comp.png'
-github: 'https://zindi.africa/users/steveoni/competitions/certificate'
+external: 'https://zindi.africa/users/Lawrence_Moruye/competitions/certificate'
 tech:
   - Python
   - Pytorch
   - Sklearn
-  - PyData
+  - Algorithms
   - Tensorflow
+  - Rasa
+  - FastAPI
+  - tweepy/twint
+  - fastai
 showInProjects: true
 ---
 
-Participated in Zindi comeptiton as an Individual and has a Team. Was priviledge to be among the first 3 and first 20 for most of the competition.
+I have Participated in over 40 different Zindi comeptitons and hackathons both individually and collaborated with other teams.My best ever rank on zindi was 9th of 25,000+ data scientists globally.I have worked on various challenges in different dormains including but not limitted to Agriculture,Insurance,Banking,Healthcare,Logistics,Transportation among others I managed to secure respectable positions in many of those challenges.

@@ -51,8 +51,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I will be glad to contribute to any opensource project regarding Data science/Machine
-        learning
+        I will be glad to contribute/work on any project regarding Data science/Machine learning
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
