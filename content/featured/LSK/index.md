@@ -1,5 +1,5 @@
 ---
-date: '6'
+date: '6-1'
 title: '"best display in data services"'
 cover: './AI_IOT.jpeg'
 external: 'https://www.linkedin.com/posts/lawrence-moruye_artificialintellegence-internetofthingsiot-activity-6587299756001771520-N_sv'
