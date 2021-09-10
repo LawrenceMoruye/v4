@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '1'
 title: ' Among Winners of Ambulance Parambulation '
 cover: './optimization.jpeg'
 external: 'https://kenya.ai/ai-kenya-ambulance-perambulation-datathon-highlights/'

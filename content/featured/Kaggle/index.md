@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'Kaggle medalist'
 cover: './kaggle.png'
 external: 'https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data'

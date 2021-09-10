@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '6'
 title: 'Zindi Competitions'
 cover: './comp.png'
 external: 'https://zindi.africa/users/Lawrence_Moruye/competitions/certificate'

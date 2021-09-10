@@ -1,5 +1,5 @@
 ---
-date: '6'
+date: '5'
 title: 'Mentorship'
 cover: './Zindi_Mentorship.png'
 external: 'https://zindi.medium.com/?p=9798dfbceade'
