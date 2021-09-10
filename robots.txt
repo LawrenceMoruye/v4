@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://lawrencemoruye.github.io/sitemap.xml
-Host: https://lawrencemoruye.github.io
